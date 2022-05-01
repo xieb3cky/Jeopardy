@@ -3,7 +3,6 @@
 
 # Jeopardy
 
-[View Project](https://xieb3cky.github.io/Jeopardy/)
 
 **Description :**  Utilize jService API to create a Jeopardy game like the televised Jeopardy show.
 
