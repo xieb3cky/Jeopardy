@@ -19,8 +19,7 @@ CSS, HTML, Javascript, jQuery, AJAX
 
 * Click on 'Restart' button to restart the game, loading new categories and corresponding questions.
 
-![Start Game](https://imgur.com/z6tQycL)
-
+![Start Game](https://im5.ezgif.com/tmp/ezgif-5-7526a74b1a.gif)
 
 * As user clicks on the clue (?), question will be reveal.
 
