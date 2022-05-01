@@ -12,7 +12,7 @@ CSS, HTML, Javascript, jQuery, AJAX
 ## Demo
 
 
-* At the start of game, random 6 categories will be selected from the jService API.
+* At the start of game, categories will be selected from the jService API.
 
 * The game board consists of 6 categories and 5 questions each category.
 
@@ -21,10 +21,10 @@ CSS, HTML, Javascript, jQuery, AJAX
 ![Start Game](https://im5.ezgif.com/tmp/ezgif-5-7526a74b1a.gif)
 
 
-* As user clicks on the clue (?), the card will be replaced with the question.
+* As user clicks on the clue (?), question will be reveal.
 
 ![Start Game](https://im4.ezgif.com/tmp/ezgif-4-2fd63db0cf.gif)
 
-* When user clicks on then question, it will show the answer. 
+* When user clicks on the question, answer will be reveal.
 
 ![Start Game](https://im4.ezgif.com/tmp/ezgif-4-96866c13c9.gif)
