@@ -24,8 +24,8 @@ CSS, HTML, Javascript, jQuery, AJAX
 
 * As user clicks on the clue (?), question will be reveal.
 
-![Start Game](https://imgur.com/gallery/qdnx9eF)
+![Start Game](https://i.imgur.com/wVPwFMz.gif)
 
 * When user clicks on the question, answer will be reveal.
 
-![Start Game](https://imgur.com/a/kRD5qct)
+![Start Game](https://i.imgur.com/9FGvfvR.gif)
